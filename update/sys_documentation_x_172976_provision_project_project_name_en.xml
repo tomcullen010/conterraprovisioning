@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="project_name" label="Project name" language="en" table="x_172976_provision_project">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>project_name</element>
+            <help/>
+            <hint/>
+            <label>Project name</label>
+            <language>en</language>
+            <name>x_172976_provision_project</name>
+            <plural>Project names</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-27 11:55:21</sys_created_on>
+            <sys_id>1ca000f1db3c2300c2b9dde7489619a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Project name</sys_name>
+            <sys_package display_value="provision flow" source="x_172976_provision">2c5afb6ddbf82300c2b9dde7489619b3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="provision flow">2c5afb6ddbf82300c2b9dde7489619b3</sys_scope>
+            <sys_update_name>sys_documentation_x_172976_provision_project_project_name_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-27 11:55:21</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

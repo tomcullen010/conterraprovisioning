@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Project Info" section_id="ec9ff3a1db3c2300c2b9dde7489619ff" sys_domain="global" table="x_172976_provision_project" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>start_date</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-27 11:55:23</sys_created_on>
+            <sys_id>e8a040f1db3c2300c2b9dde748961930</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Info" display_value="Project Info" name="x_172976_provision_project" sys_domain="global" view="Default view">ec9ff3a1db3c2300c2b9dde7489619ff</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-27 11:55:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>goal_date</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-27 11:55:23</sys_created_on>
+            <sys_id>6ca040f1db3c2300c2b9dde748961930</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Info" display_value="Project Info" name="x_172976_provision_project" sys_domain="global" view="Default view">ec9ff3a1db3c2300c2b9dde7489619ff</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-27 11:55:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-27 11:55:23</sys_created_on>
+            <sys_id>eca040f1db3c2300c2b9dde748961930</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Info" display_value="Project Info" name="x_172976_provision_project" sys_domain="global" view="Default view">ec9ff3a1db3c2300c2b9dde7489619ff</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-27 11:55:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-27 11:55:23</sys_created_on>
+            <sys_id>60a040f1db3c2300c2b9dde748961931</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Info" display_value="Project Info" name="x_172976_provision_project" sys_domain="global" view="Default view">ec9ff3a1db3c2300c2b9dde7489619ff</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-27 11:55:23</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>complete</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-27 11:55:23</sys_created_on>
+            <sys_id>e0a040f1db3c2300c2b9dde748961931</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Info" display_value="Project Info" name="x_172976_provision_project" sys_domain="global" view="Default view">ec9ff3a1db3c2300c2b9dde7489619ff</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-27 11:55:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>actual_complete_date</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-27 11:55:23</sys_created_on>
+            <sys_id>64a040f1db3c2300c2b9dde748961931</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Info" display_value="Project Info" name="x_172976_provision_project" sys_domain="global" view="Default view">ec9ff3a1db3c2300c2b9dde7489619ff</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-27 11:55:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>urgency</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-27 11:55:23</sys_created_on>
+            <sys_id>e4a040f1db3c2300c2b9dde748961931</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Info" display_value="Project Info" name="x_172976_provision_project" sys_domain="global" view="Default view">ec9ff3a1db3c2300c2b9dde7489619ff</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-27 11:55:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-27 11:55:23</sys_created_on>
+            <sys_id>68a040f1db3c2300c2b9dde748961931</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Info" display_value="Project Info" name="x_172976_provision_project" sys_domain="global" view="Default view">ec9ff3a1db3c2300c2b9dde7489619ff</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-27 11:55:23</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-27 11:55:23</sys_created_on>
+            <sys_id>e8a040f1db3c2300c2b9dde748961931</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Info" display_value="Project Info" name="x_172976_provision_project" sys_domain="global" view="Default view">ec9ff3a1db3c2300c2b9dde7489619ff</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-27 11:55:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Project Info</caption>
+            <header>false</header>
+            <name>x_172976_provision_project</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-27 11:50:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ec9ff3a1db3c2300c2b9dde7489619ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Project Info</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="provision flow" source="x_172976_provision">2c5afb6ddbf82300c2b9dde7489619b3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="provision flow">2c5afb6ddbf82300c2b9dde7489619b3</sys_scope>
+            <sys_update_name>sys_ui_section_ec9ff3a1db3c2300c2b9dde7489619ff</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-27 11:50:44</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

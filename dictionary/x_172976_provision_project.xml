@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="project" max_length="40" name="x_172976_provision_project" type="collection">
+        <element label="Actual complete date" max_length="40" name="actual_complete_date" type="glide_date"/>
+        <element label="Capex" max_length="20" name="capex" type="currency"/>
+        <element label="% Complete" max_length="40" name="complete" type="percent_complete"/>
+        <element label="Customer" mandatory="true" max_length="32" name="customer" reference="core_company" type="reference"/>
+        <element label="Goal date" max_length="40" name="goal_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Project name" mandatory="true" max_length="40" name="project_name" type="string"/>
+        <element label="SO problem" max_length="40" name="so_problem" type="boolean"/>
+        <element label="Start date" max_length="40" name="start_date" type="glide_date"/>
+    </element>
+</database>
