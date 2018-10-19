@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_no_mtom">
+    <sc_cat_item_user_criteria_no_mtom action="INSERT_OR_UPDATE">
+        <sc_cat_item/>
+        <sys_class_name>sc_cat_item_user_criteria_no_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-11 15:27:02</sys_created_on>
+        <sys_id>ad57305adb412300c2b9dde7489619ca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="provision flow" source="x_172976_provision">2c5afb6ddbf82300c2b9dde7489619b3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="provision flow">2c5afb6ddbf82300c2b9dde7489619b3</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_no_mtom_ad57305adb412300c2b9dde7489619ca</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-11 15:27:02</sys_updated_on>
+        <user_criteria display_value="SNC External">86ce992fdb602300c2b9dde748961941</user_criteria>
+    </sc_cat_item_user_criteria_no_mtom>
+</record_update>

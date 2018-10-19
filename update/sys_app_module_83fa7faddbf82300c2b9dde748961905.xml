@@ -14,7 +14,7 @@
         <mobile_title>projects</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_172976_provision_project</name>
-        <order/>
+        <order>20</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
@@ -25,17 +25,17 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>83fa7faddbf82300c2b9dde748961905</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>projects</sys_name>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>All projects</sys_name>
         <sys_overrides/>
         <sys_package display_value="provision flow" source="x_172976_provision">2c5afb6ddbf82300c2b9dde7489619b3</sys_package>
         <sys_policy/>
         <sys_scope display_value="provision flow">2c5afb6ddbf82300c2b9dde7489619b3</sys_scope>
         <sys_update_name>sys_app_module_83fa7faddbf82300c2b9dde748961905</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-09-27 11:30:42</sys_updated_on>
+        <sys_updated_on>2018-10-11 14:30:49</sys_updated_on>
         <timeline_page/>
-        <title>projects</title>
+        <title>All projects</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

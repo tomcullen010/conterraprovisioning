@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="project" max_length="40" name="x_172976_provision_project" type="collection">
+    <element extends="task" label="project" max_length="40" name="x_172976_provision_project" sizeclass="6" type="collection">
         <element label="Actual complete date" max_length="40" name="actual_complete_date" type="glide_date"/>
         <element label="Capex" max_length="20" name="capex" type="currency"/>
         <element label="% Complete" max_length="40" name="complete" type="percent_complete"/>
         <element label="Customer" mandatory="true" max_length="32" name="customer" reference="core_company" type="reference"/>
         <element label="Goal date" max_length="40" name="goal_date" type="glide_date"/>
+        <element label="Project manager" max_length="32" name="project_manager" reference="sys_user" reference_qual="roles=x_172976_provision.project_manager^EQ" reference_qual_condition="roles=x_172976_provision.project_manager^EQ" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Project name" mandatory="true" max_length="40" name="project_name" type="string"/>
         <element label="SO problem" max_length="40" name="so_problem" type="boolean"/>
         <element label="Start date" max_length="40" name="start_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Work Notes" max_length="4000" name="u_journal_1" type="journal"/>
     </element>
 </database>

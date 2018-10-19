@@ -6,36 +6,36 @@
         <content_page/>
         <device_type/>
         <filter/>
-        <hint/>
+        <hint>Add or update locations</hint>
         <homepage/>
         <image/>
         <link_type>LIST</link_type>
         <map_page/>
-        <mobile_title>project tasks</mobile_title>
+        <mobile_title>Add/Update Locations</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>x_172976_provision_project_task</name>
-        <order>40</order>
+        <name>cmn_location</name>
+        <order>50</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles>x_172976_provision.project_user</roles>
+        <roles/>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-09-27 11:32:22</sys_created_on>
+        <sys_created_on>2018-10-11 15:51:07</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>135b37addbf82300c2b9dde7489619e1</sys_id>
-        <sys_mod_count>5</sys_mod_count>
-        <sys_name>All project tasks</sys_name>
+        <sys_id>a1ac745edb412300c2b9dde748961944</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Add/Update Locations</sys_name>
         <sys_overrides/>
         <sys_package display_value="provision flow" source="x_172976_provision">2c5afb6ddbf82300c2b9dde7489619b3</sys_package>
         <sys_policy/>
         <sys_scope display_value="provision flow">2c5afb6ddbf82300c2b9dde7489619b3</sys_scope>
-        <sys_update_name>sys_app_module_135b37addbf82300c2b9dde7489619e1</sys_update_name>
+        <sys_update_name>sys_app_module_a1ac745edb412300c2b9dde748961944</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-10-11 15:49:55</sys_updated_on>
+        <sys_updated_on>2018-10-11 15:51:07</sys_updated_on>
         <timeline_page/>
-        <title>All project tasks</title>
+        <title>Add/Update Locations</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

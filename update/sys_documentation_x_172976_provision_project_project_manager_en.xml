@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="project_manager" label="Project manager" language="en" table="x_172976_provision_project">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>project_manager</element>
+            <help/>
+            <hint/>
+            <label>Project manager</label>
+            <language>en</language>
+            <name>x_172976_provision_project</name>
+            <plural>Project managers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-11 15:36:53</sys_created_on>
+            <sys_id>7999bc9adb412300c2b9dde748961918</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Project manager</sys_name>
+            <sys_package display_value="provision flow" source="x_172976_provision">2c5afb6ddbf82300c2b9dde7489619b3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="provision flow">2c5afb6ddbf82300c2b9dde7489619b3</sys_scope>
+            <sys_update_name>sys_documentation_x_172976_provision_project_project_manager_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-11 15:36:53</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

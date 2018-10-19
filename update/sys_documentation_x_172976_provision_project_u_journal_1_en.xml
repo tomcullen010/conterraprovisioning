@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_journal_1" label="Work Notes" language="en" table="x_172976_provision_project">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_journal_1</element>
+            <help/>
+            <hint/>
+            <label>Work Notes</label>
+            <language>en</language>
+            <name>x_172976_provision_project</name>
+            <plural>Work Notes</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-02 18:51:08</sys_created_on>
+            <sys_id>efbfcf9fdbf02300c2b9dde748961984</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Work Notes</sys_name>
+            <sys_package display_value="provision flow" source="x_172976_provision">2c5afb6ddbf82300c2b9dde7489619b3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="provision flow">2c5afb6ddbf82300c2b9dde7489619b3</sys_scope>
+            <sys_update_name>sys_documentation_x_172976_provision_project_u_journal_1_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-11 14:11:43</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

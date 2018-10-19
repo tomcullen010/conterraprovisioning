@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-09-27 11:55:23</sys_created_on>
-            <sys_id>20a040f1db3c2300c2b9dde748961925</sys_id>
+            <sys_created_on>2018-10-11 15:44:38</sys_created_on>
+            <sys_id>1f5b741edb412300c2b9dde74896194c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_172976_provision_project" sys_domain="global" view="Default view">05cbbfaddbf82300c2b9dde74896195a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-09-27 11:55:23</sys_updated_on>
+            <sys_updated_on>2018-10-11 15:44:38</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>customer</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-09-27 11:55:23</sys_created_on>
-            <sys_id>a0a040f1db3c2300c2b9dde748961925</sys_id>
+            <sys_created_on>2018-10-11 15:44:38</sys_created_on>
+            <sys_id>9f5b741edb412300c2b9dde74896194c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_172976_provision_project" sys_domain="global" view="Default view">05cbbfaddbf82300c2b9dde74896195a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-09-27 11:55:23</sys_updated_on>
+            <sys_updated_on>2018-10-11 15:44:38</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>.split</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-09-27 11:55:23</sys_created_on>
-            <sys_id>24a040f1db3c2300c2b9dde748961925</sys_id>
+            <sys_created_on>2018-10-11 15:44:38</sys_created_on>
+            <sys_id>135b741edb412300c2b9dde74896194d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_172976_provision_project" sys_domain="global" view="Default view">05cbbfaddbf82300c2b9dde74896195a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-09-27 11:55:23</sys_updated_on>
+            <sys_updated_on>2018-10-11 15:44:38</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>priority</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-09-27 11:55:23</sys_created_on>
-            <sys_id>a4a040f1db3c2300c2b9dde748961925</sys_id>
+            <sys_created_on>2018-10-11 15:44:38</sys_created_on>
+            <sys_id>935b741edb412300c2b9dde74896194d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_172976_provision_project" sys_domain="global" view="Default view">05cbbfaddbf82300c2b9dde74896195a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-09-27 11:55:23</sys_updated_on>
+            <sys_updated_on>2018-10-11 15:44:38</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>state</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-09-27 11:55:23</sys_created_on>
-            <sys_id>28a040f1db3c2300c2b9dde748961925</sys_id>
+            <sys_created_on>2018-10-11 15:44:38</sys_created_on>
+            <sys_id>175b741edb412300c2b9dde74896194d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_172976_provision_project" sys_domain="global" view="Default view">05cbbfaddbf82300c2b9dde74896195a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-09-27 11:55:23</sys_updated_on>
+            <sys_updated_on>2018-10-11 15:44:38</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -74,13 +74,13 @@
             <element>.end_split</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-09-27 11:55:23</sys_created_on>
-            <sys_id>a8a040f1db3c2300c2b9dde748961925</sys_id>
+            <sys_created_on>2018-10-11 15:44:38</sys_created_on>
+            <sys_id>975b741edb412300c2b9dde74896194d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_172976_provision_project" sys_domain="global" view="Default view">05cbbfaddbf82300c2b9dde74896195a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-09-27 11:55:23</sys_updated_on>
+            <sys_updated_on>2018-10-11 15:44:38</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -88,69 +88,55 @@
             <element>project_name</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-09-27 11:55:23</sys_created_on>
-            <sys_id>2ca040f1db3c2300c2b9dde748961925</sys_id>
+            <sys_created_on>2018-10-11 15:44:38</sys_created_on>
+            <sys_id>1b5b741edb412300c2b9dde74896194d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_172976_provision_project" sys_domain="global" view="Default view">05cbbfaddbf82300c2b9dde74896195a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-09-27 11:55:23</sys_updated_on>
+            <sys_updated_on>2018-10-11 15:44:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>location</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-11 15:44:38</sys_created_on>
+            <sys_id>9b5b741edb412300c2b9dde74896194d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_172976_provision_project" sys_domain="global" view="Default view">05cbbfaddbf82300c2b9dde74896195a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-11 15:44:38</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>short_description</element>
-            <position>7</position>
+            <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-09-27 11:55:23</sys_created_on>
-            <sys_id>aca040f1db3c2300c2b9dde748961925</sys_id>
+            <sys_created_on>2018-10-11 15:44:38</sys_created_on>
+            <sys_id>1f5b741edb412300c2b9dde74896194d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_172976_provision_project" sys_domain="global" view="Default view">05cbbfaddbf82300c2b9dde74896195a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-09-27 11:55:23</sys_updated_on>
+            <sys_updated_on>2018-10-11 15:44:38</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>description</element>
-            <position>8</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-09-27 11:55:23</sys_created_on>
-            <sys_id>20a040f1db3c2300c2b9dde748961926</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_172976_provision_project" sys_domain="global" view="Default view">05cbbfaddbf82300c2b9dde74896195a</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-09-27 11:55:23</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>capex</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-09-27 12:24:33</sys_created_on>
-            <sys_id>774704f5db3c2300c2b9dde7489619b2</sys_id>
+            <sys_created_on>2018-10-11 15:44:38</sys_created_on>
+            <sys_id>9f5b741edb412300c2b9dde74896194d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_172976_provision_project" sys_domain="global" view="Default view">05cbbfaddbf82300c2b9dde74896195a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-09-27 12:24:33</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>so_problem</element>
-            <position>10</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-09-27 12:35:50</sys_created_on>
-            <sys_id>59e90479db3c2300c2b9dde748961938</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_172976_provision_project" sys_domain="global" view="Default view">05cbbfaddbf82300c2b9dde74896195a</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-09-27 12:35:50</sys_updated_on>
+            <sys_updated_on>2018-10-11 15:44:38</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
